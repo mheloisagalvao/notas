@@ -17,21 +17,31 @@ export default function Home() {
             Bem-vindo ao nosso site de criação e gerenciamento de anotações! Aqui, você pode liberar sua criatividade e organizar suas ideias em arquivos de anotação personalizados.
             </p>
 
+            <p></p>
+
             <p>
             Com nossa interface intuitiva e fácil de usar, você pode criar anotações com facilidade, formatar o texto, adicionar imagens e até mesmo categorizá-las em diferentes pastas para uma organização eficiente.
             </p>
+
+            <p></p>
 
             <p>
             Nossa plataforma permite que você acesse suas anotações de qualquer lugar, a qualquer momento, usando qualquer dispositivo. Nunca mais perca suas ideias brilhantes!
             </p>
 
+            <p></p>
+
             <p>
             Além disso, oferecemos recursos avançados de pesquisa e filtro para ajudá-lo a localizar rapidamente suas anotações específicas. Com apenas alguns cliques, você encontrará a informação que precisa.
             </p>
 
+            <p></p>
+
             <p>
             Compartilhe suas anotações com colegas de equipe, amigos ou familiares para colaboração e feedback. Trabalhe em conjunto para tornar suas ideias ainda mais poderosas!
             </p>
+
+            <p></p>
 
             <p>
             Seja você um estudante, profissional criativo ou alguém que adora manter suas ideias organizadas, nosso site de criação e gerenciamento de anotações está aqui para ajudar. Comece a explorar sua criatividade e a manter suas ideias sempre à mão. Experimente agora e veja como é fácil anotar e gerenciar suas ideias de forma eficiente!
