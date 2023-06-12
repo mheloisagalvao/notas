@@ -3,12 +3,12 @@ import "firebase/compat/database";
 import 'firebase/compat/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBdgCZqpWUj73YFiEt1OEUr8YmLUSSurDY",
-  authDomain: "mynotes-9ecf8.firebaseapp.com",
-  projectId: "mynotes-9ecf8",
-  storageBucket: "mynotes-9ecf8.appspot.com",
-    messagingSenderId: "974761909870",
-  appId: "1:974761909870:web:9fb9f87e651df2d2e1107f"
+  apiKey: "AIzaSyAC9Ul1RVIbDZ1-ClEAjG3q6YBVyOyR998",
+  authDomain: "notas-5f258.firebaseapp.com",
+  projectId: "notas-5f258",
+  storageBucket: "notas-5f258.appspot.com",
+  messagingSenderId: "355843739090",
+  appId: "1:355843739090:web:d62b5cc1818d2dad7e4c0b"
 }
 firebase.initializeApp(firebaseConfig);
 
